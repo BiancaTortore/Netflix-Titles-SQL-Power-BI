@@ -36,7 +36,7 @@ This repository shows an end‑to‑end **data analysis workflow** on the public
 ## 📊 Dashboard (Power BI)
 
 **Overview**
-![Power BI — Overview](Power-Bi/Dashboard 1.png)
+![Power BI — Overview](Power-Bi/Dashboard%201.png)
 
 Includes:
 
@@ -46,7 +46,7 @@ Includes:
 * *Countries Available* (map)
 
 **Detail page**
-![Power BI — Details](Power-Bi/Dashboard 2.png)
+![Power BI — Details](Power-Bi/Dashboard%202.png)
 
 Includes:
 
